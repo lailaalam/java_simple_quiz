@@ -1,5 +1,5 @@
 # java_simple_quiz
-## Here I have done an automated quiz program code using Java and JSON.The video of the program is attached below:
+## Here I have done an automated quiz program using Java and JSON.The video of the program is attached below:
 
 
 
